@@ -1,8 +1,10 @@
+/* font-family: 'Alfa Slab One', cursive */
+
 .text-center{
     background-color: #aaa;
-    position: absolute;
+    position: relative;
     width: 100%;
-    bottom: 1px;
+    margin-top: 15px;
 }
 
 h1, h1 {
