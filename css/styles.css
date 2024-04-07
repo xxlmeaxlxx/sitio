@@ -7,7 +7,7 @@
     margin-top: 15px;
 }
 
-h1, h1 {
+h1, h2 {
     font-family: 'Alfa Slab One', cursive;
 }
 
@@ -17,4 +17,8 @@ h1, h1 {
     height: 50vh;
     min-height: 600px;
     color: white;
+}
+
+.textos{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
