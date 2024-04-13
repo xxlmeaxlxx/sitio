@@ -75,3 +75,15 @@ h1, h2 {
     text-align: center;
     padding: 50px 20px;
 }
+.staff {
+    background-color: #efefef;
+}
+
+.mapa iframe {
+    width: 100%;
+    aspect-ratio: 1.2;
+}
+
+.inputMessage {
+    
+}
