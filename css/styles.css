@@ -15,6 +15,7 @@ h1, h2 {
     background: url(../img/header.jpg) no-repeat;
     background-size: cover;
     height: 50vh;
+    width: 100vw;
     min-height: 600px;
     color: white;
 }
@@ -67,8 +68,14 @@ h1, h2 {
 }
 
 .testimonios {
-    background-color: #dadada;
     padding-bottom: 4rem !important;
+    height: 400px;
+    background-color: red;
+}
+
+.carousel-indicators{
+    position: relative;
+    top: 220px;
 }
 
 .testimonio{
@@ -84,6 +91,9 @@ h1, h2 {
     aspect-ratio: 1.2;
 }
 
-.inputMessage {
-    
+html {
+    scroll-behavior: smooth ;
+}
+.scroll_section {
+    scroll-margin-top: 60px;
 }
